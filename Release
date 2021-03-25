@@ -1,12 +1,10 @@
-Origin: KidsAuto Pro v9 Repo
-Label: KidsAuto Pro v9 Repo
-Suite: stable
-Version: 1.0
-Codename: ios
-Architectures: iphoneos-arm
-Components: main
-Description: KidsAuto Pro v9 for Device Model 10.x - 12.2 (Unc0ver) & 12.4 + Checkra1n Jailbreaks
-MD5Sum:
- d1bc185cbe7014565f02a26423f4f118 16924 Packages
- 2f00dad3b91256220de8b4ed04ae9e8e 4161 Packages.bz2
- 260359d2f2a34b4df727b568c1921a3a 3871 Packages.gz
+Package: com.n2tforever.napgame
+Name: NapGame
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Bui Tuan son
+Author: Bui Tuan son
+Section: Tweaks
+Version: 0.0.1-106
+Installed-Size: 180
