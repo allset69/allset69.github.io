@@ -1,0 +1,11 @@
+Origin: NapGame_Fix_Voaaron
+Label: NapGame_Fix_Voaaron
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: NapGame_Fix_Voaaron
+MD5Sum:
+ c585058004fdd6873cd210f5419b0185 345 Packages.gz
+ 4059d198768f9f8dc9372dc1c54bc3c3 14  Packages.bz2
