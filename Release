@@ -1,0 +1,10 @@
+Package: com.n2tforever.napgame
+Name: NapGame
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: An awesome MobileSubstrate tweak!
+Maintainer: Bui Tuan son
+Author: Bui Tuan son
+Section: Tweaks
+Version: 0.0.1-106
+Installed-Size: 180
