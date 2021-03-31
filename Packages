@@ -4,7 +4,7 @@ Section: Tweaks
 Maintainer: VoAaron-TeamKids
 Depends: firmware (>10.0), mobilesubstrate ,ws.hbang.common, preferencaloader
 Architecture: iphoneos-arm
-Filename: ./Debs/KidsAutoProv901.deb
+Filename: ./debs/KidsAutoProv901.deb
 Size: 38
 MD5sum: 71bc57715ff21ef28a2e11f0d42628d1
 Description: Block Connect Device.
