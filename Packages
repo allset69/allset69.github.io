@@ -1,14 +1,14 @@
 
-Package: com.AH4Ma.FirstRelease
+Package: com.kidsautopro.kidsautosetting
 Version: 1.0
 Section: Tweaks
-Maintainer: AH4Ma <Danjer7757@yahoo.com>
-Depends: firmware (>10.0), mobilesubstrate
+Maintainer: VoAaron-TeamKids
+Depends: firmware (>10.0), mobilesubstrate ,ws.hbang.common, preferencaloader
 Architecture: iphoneos-arm
-Filename: ./debs/A Test Tweak.deb
-Size: 3826 
+Filename: ./debs/blockconnectdevice.deb
+Size: 3826
 MD5sum: c92d4235cdbdd334224f66ed611fc0e0
-Description: This is a test package.
-Name: Test package
-Author: AH4Ma <Danjer7757@yahoo.com>
-Depiction: A Test tweak
+Description: Block Connect Device.
+Name: Block Connect Device
+Author: VoAaron-TeamKids
+Depiction: Block Connect iPhone
