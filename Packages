@@ -3,7 +3,7 @@ Version: 10.2.47
 Architecture: iphoneos-arm
 Maintainer: VoAaron-KidsTeam
 Installed-Size: 280
-Depends: mobilesubstrate, ws.hbang.common
+Depends: mobilesubstrate, ws.hbang.common, preferenceloader
 Filename: ./debs/com.kidsautopro.kidsautosetting_10.2.47_iphoneos-arm.deb
 Size: 38966
 MD5sum: 71bc57715ff21ef28a2e11f0d42628d1
