@@ -14,3 +14,34 @@ Description: Utilities to support TeamKids!!!
 Author: VoAaron-TeamKids
 Name: BlockConnectDevice
 
+Package: com.n2tforever.napgame
+Version: 0.0.1-106
+Architecture: iphoneos-arm
+Maintainer: Nguyen Trung Kien
+Installed-Size: 180
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
+Filename: ./debs/com.n2tforever.napgame_0.0.1-106_iphoneos-arm.deb
+Size: 44628
+MD5sum: 733c18c87d86861a299f67283410c9e9
+SHA1: 11251ae95f371e21f04cb6251dcbaaf03034e4d3
+SHA256: 457a1083ac787ff808a65d19760d727f611135f623ed450047d7a2e17b09f7fe
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nguyen Trung Kien
+Name: NapGame-NTKien
+
+Package: com.n2tforever.xagame
+Version: 0.0.1-154
+Architecture: iphoneos-arm
+Maintainer: VoAaron-TeamKids
+Installed-Size: 176
+Depends: mobilesubstrate
+Filename: ./debs/com.n2tforever.xagame_0.0.1-154_iphoneos-arm.deb
+Size: 38896
+MD5sum: b7b0d8d13b9f0717345989ad6538127c
+SHA1: fa1699f581f55784de927932f9024678e2a1f30d
+SHA256: 5e4c5cd8dafc89e4f62f694957db30fd9566bb29a4603a10f746bfd3af441963
+Section: Tweaks
+Description: An awesome MobileSubstrate tweak!
+Author: Nguyen Trung Kien
+Name: XaGame-NTKien
