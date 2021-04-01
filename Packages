@@ -35,7 +35,7 @@ Version: 0.0.1-154
 Architecture: iphoneos-arm
 Maintainer: VoAaron-TeamKids
 Installed-Size: 176
-Depends: mobilesubstrate
+Depends: mobilesubstrate, com.rpetrich.rocketbootstrap
 Filename: ./debs/com.n2tforever.xagame_0.0.1-154_iphoneos-arm.deb
 Size: 38896
 MD5sum: b7b0d8d13b9f0717345989ad6538127c
