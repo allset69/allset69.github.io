@@ -1,0 +1,16 @@
+Package: com.kidsautopro.kidsautosetting
+Version: 10.2.47
+Architecture: iphoneos-arm
+Maintainer: iThanh
+Installed-Size: 280
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/com.kidsautopro.kidsautosetting_10.2.47_iphoneos-arm.deb
+Size: 38966
+MD5sum: 71bc57715ff21ef28a2e11f0d42628d1
+SHA1: e80ed8c2d682c7fab3cc1f8558467b80e9c50539
+SHA256: 6994c74e600f88ff84339c5dbda5ce1c4f12cbf2c1f8071186d1e8575cdfc46b
+Section: Tweaks
+Description: Utilities to support KidsAuto Pro!!!
+Author: KidsAuto Pro - Cường Trần <https://www.facebook.com/kidsauto91>
+Name: KidsAutoSetting
+
